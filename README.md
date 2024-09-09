@@ -17,5 +17,5 @@ The rooms and layout are randomly generated at runtime, as well as the monsters
 - `>` - Stairwell to next level
 - `&` - Golden Idol
 
-Weapons: Magic Axe, Magic Fangs of Sleep, Long Sword, Mace, Short Sword
+Weapons: Magic Axe, Magic Fangs of Sleep, Long Sword, Mace, Short Sword\
 Scrolls: Dexterity, Strength, Teleportation, Health, Armor
